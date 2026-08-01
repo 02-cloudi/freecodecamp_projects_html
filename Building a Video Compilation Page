@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Introduction to front-end development</h1>
+        <p>Front end development comprises a series of programming languages in use. Following are the common languages being used : Html, CSS and JavaScript.</p>
+        <section>
+            <h2>Html</h2>
+            <p>Html mainly forms the backbone of the webpage, that comprises of the structure and layout.</p>
+            <iframe 
+                src="https://www.youtube.com/embed/GDGejH3SDNQ"
+                title="Html online tutorial video"
+                height="250"
+                width="500"
+            >
+
+            </iframe>
+        </section>
+
+        <section>
+            <h2>CSS</h2>
+            <p>CSS do the styling of the webpage, which controls the visual presentation of the website layout. </p>
+            <iframe 
+                src="https://www.youtube.com/embed/OXGznpKZ_sA"
+                title="CSS online tutorial video"
+                height="250"
+                width="500"
+            >
+
+            </iframe>
+        </section>
+
+        <section>
+            <h2>JavaScript</h2>
+            <p>JavaScript brings interactivity to the website by allowing webpage to respond to user actions without reloading.</p>
+            <iframe 
+                src="https://www.youtube.com/embed/jS4aFq5-91M"
+                title="JavaScipt online tutorial video"
+                height="250"
+                width="500"
+            >
+
+            </iframe>
+        </section>
+    </main>
+</body>
+
+</html>
